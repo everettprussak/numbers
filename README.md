@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Everett Prussak
+2. Student ID: 2368093
+3. Email: prussak@chapman.edu
+4. Class: CPSC-298-02
 5. Assignment: numbers 
 
 ## Application Purpose
